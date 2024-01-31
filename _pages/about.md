@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weichen_Li Homepage"
+title: "🦥 Hello there, I'm "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-About me
+🐻 About me
 ------
 I am a third-year Ph.D. student. 
 
