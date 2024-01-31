@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Weichen_Li Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 
+About me
+------
+I am a third-year Ph.D. student. 
 
 
-
-Getting started
+Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -24,6 +26,4 @@ Getting started
 
 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
