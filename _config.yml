@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Name"
+  name             : "Weichen Li"
   avatar           : "profile.png"
   bio              : 
-  location         : "Location"
+  location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "weichen@cs.uni-kl.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
