@@ -13,7 +13,7 @@ redirect_from:
 ------
 I am a third-year Ph.D. student in the Machine Learning group at the University of Kaiserslautern-Landau.
 
-🐥 Research Interests
+🦖 Research Interests
 ======
 1. Language-Based Reinforcement Learning
 2. Safety Reinforcement Learning 
