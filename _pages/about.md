@@ -9,7 +9,7 @@ redirect_from:
 ---
 🐻 About me
 ------
-I am a third-year Ph.D. student in the Machine Learning group at the University of Kaiserslautern-Landau, supervised by Professor [Sophie Fellenz](https://ml.informatik.uni-kl.de/people/sophie-burkhardt.php). My research primarily focuses on language-based deep reinforcement learning.
+I am a third-year Ph.D. student in the Machine Learning group at the University of Kaiserslautern-Landau, supervised by Professor Sophie Fellenz. My research primarily focuses on language-based deep reinforcement learning.
 
 🐣 Research Interests
 ======
