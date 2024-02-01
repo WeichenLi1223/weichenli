@@ -1,5 +1,1 @@
----
-title: "Ethics in Action: Training Reinforcement Learning Agent for Moral Decision-making In Text-based Adventure Games."
-collection: (To appear)Proceedings of International Conference on Artificial Intelligence and Statistics (AISTATS)
-date: 2024
----
+W. Li, R. Devidze, W. Mustafa, and S. Fellenz. (2024) Ethics in Action: Training Reinforcement Learning Agent for Moral Decision-making In Text-based Adventure Games. (To appear)Proceedings of International Conference on Artificial Intelligence and Statistics (AISTATS)
