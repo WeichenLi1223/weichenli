@@ -31,7 +31,7 @@ RL has demonstrated its potential in solving goal-oriented sequential tasks. How
 
 📝 Teaching 
 ======
-I supervise Master projects and theses. Please reach out if you are interested in the following topics:
+I supervise Master projects and theses. Please contact me if you are interested in the following topics:
 1. Playing text-based adventure games using offline Reinforcement Learning: This topic aims to train a single agent using collected game trajectories, instead of training a separate agent for each individual game with online data collection.
 2. Language understanding: This topic aims to explain an agent's decision-making process by investigating why it chooses a particular action a1 over a2 in a specific state and its ability to learn from semantic information.
 3. Deep Reinforcement learning with application to chemical data. 
