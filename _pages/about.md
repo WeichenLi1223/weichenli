@@ -7,23 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 🐻 About me
 ------
 I am a third-year Ph.D. student in the Machine Learning group at the University of Kaiserslautern-Landau, supervised by Professor [Sophie Fellenz](https://ml.informatik.uni-kl.de/people/sophie-burkhardt.php). My research primarily focuses on language-based deep reinforcement learning.
 
 🐣 Research Interests
 ======
-1. Language-Based Reinforcement Learning
-2. Safety Reinforcement Learning
+<h1>1. Language-Based Reinforcement Learning<h1>:
+Text-based adventure games are a popular testbed for language-based reinforcement learning (RL). In previous work, deep Q-learning is most often used as the learning agent. Q-learning algorithms are difficult to apply to complex real-world domains, for example due to their instability in training. Therefore, we adapt the Soft-Actor-Critic (SAC) algorithm
+to the domain of text-based adventure games in this paper. To deal with sparse extrinsic rewards from the environment, we combine the SAC with a potential-based reward shaping technique to provide more informative (dense) reward signals to the RL agent. The SAC method achieves higher scores than the Q-learning methods on many games with only half the
+number of training steps. Additionally, the reward shaping technique helps the agent to learn the policy faster and improve the score for some games. Overall, our findings show that the SAC algorithm is a well-suited approach for text-based games.
+<h1>2. Safety Reinforcement Learning<h1>: 
+Reinforcement Learning (RL) has demonstrated its potential in solving goal-oriented sequential tasks. However, with the increasing capabilities of RL agents, ensuring morally responsible agent behavior is becoming a pressing concern. Previous approaches have included moral considerations by statically assigning a moral score to each action at runtime. However, these methods do not account for the potential moral value of future states when evaluating immoral actions. This limits the ability to find trade-offs between different aspects of moral behavior and the utility of the action. In this paper, we aim to factor in moral scores by adding a constraint to the RL objective that is incorporated during training, thereby dynamically adapting the policy function. By combining Lagrangian optimization and meta-gradient learning, we develop an RL method that is able to find a trade-off between immoral behavior and performance in the decision-making process. 
 
 
 🐥 Publications
 ======
 1. W. Li, R. Devidze, W. Mustafa, and S. Fellenz.(2024) Ethics in Action: Training Reinforcement Learning Agent for Moral Decision-making In Text-based Adventure Games. (To appear)Proceedings of International Conference on Artificial Intelligence and Statistics (AISTATS)
-2. W. Li, R. Devidze, S. Fellenz.(2023) Learning to play text-based adventure games with maximum entropy reinforcement learning. European Conference on Machine Learning and Data Mining (ECML PDKK)
-3. W. Li.et.al.(2022),Topic-Guided Knowledge Graph Construction for Argument Mining. IEEE International Conference on Big Knowledge(ICBK)
+2. W. Li, R. Devidze, S. Fellenz.(2023) [Learning to play text-based adventure games with maximum entropy reinforcement learning](https://arxiv.org/abs/2302.10720). European Conference on Machine Learning and Data Mining (ECML PDKK)
+3. W. Li.et.al.(2022),[Topic-Guided Knowledge Graph Construction for Argument Mining](https://ieeexplore.ieee.org/document/9667720). IEEE International Conference on Big Knowledge(ICBK)
 
 
 
