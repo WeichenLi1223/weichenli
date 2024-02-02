@@ -21,7 +21,7 @@ I am a third-year Ph.D. student in the [Machine Learning group](https://ml.infor
 🐥 Publications
 ======
 1. W. Li, R. Devidze, W. Mustafa, and S. Fellenz.(2024) Ethics in Action: Training Reinforcement Learning Agent for Moral Decision-making In Text-based Adventure Games. (To appear)Proceedings of International Conference on Artificial Intelligence and Statistics (AISTATS) [Abstract](files/abstract2.pdf) 
-2. W. Li, R. Devidze, S. Fellenz.(2023) [Learning to play text-based adventure games with maximum entropy reinforcement learning](https://arxiv.org/abs/2302.10720). European Conference on Machine Learning and Data Mining (ECML PKDD) [Abstract](files/abstract1.pdf) [code](https://github.com/WeichenLi1223/Text-based-adventure-games-using-SAC)
+2. W. Li, R. Devidze, S. Fellenz.(2023) [Learning to play text-based adventure games with maximum entropy reinforcement learning](https://arxiv.org/abs/2302.10720). European Conference on Machine Learning and Data Mining (ECML PKDD) [Abstract](files/abstract1.pdf) [Poster](files/Poster_ECML_Text_based_Game.pdf) [code](https://github.com/WeichenLi1223/Text-based-adventure-games-using-SAC)
 3. W. Li.et.al.(2022),[Topic-Guided Knowledge Graph Construction for Argument Mining](https://ieeexplore.ieee.org/document/9667720). IEEE International Conference on Big Knowledge(ICBK)
 
 
