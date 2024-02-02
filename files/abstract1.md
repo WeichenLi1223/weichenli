@@ -1,0 +1,4 @@
+Abstract
+Text-based adventure games are a popular testbed for language-based RL. In previous work, deep Q-learning is most often used as the learning agent. Q-learning algorithms are difficult to apply to complex real-world domains, for example, due to their instability in training. Therefore, we adapt the Soft-Actor-Critic (SAC) algorithm
+to the domain of text-based adventure games. To deal with sparse extrinsic rewards from the environment, we combine the SAC with a potential-based reward shaping technique to provide more informative (dense) reward signals to the RL agent. The SAC method achieves higher scores than the Q-learning methods on many games with only half the
+number of training steps. Additionally, the reward shaping technique helps the agent to learn the policy faster and improve the score for some games. Overall, our findings show that the SAC algorithm is a well-suited approach for text-based games.
