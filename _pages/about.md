@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🐻 About me
+About me
 ------
 I am a third-year Ph.D. student in the [Machine Learning group](https://ml.informatik.uni-kl.de) at the University of Kaiserslautern-Landau, supervised by Professor Sophie Fellenz. My research primarily focuses on language-based deep reinforcement learning.
 
