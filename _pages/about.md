@@ -13,9 +13,9 @@ I am a third-year Ph.D. student in the [Machine Learning group](https://ml.infor
 
 🐣 Research Interests
 ======
-1. <strong>Language-Based Reinforcement Learning</strong>
-2. <strong>Safety Reinforcement Learning</strong>
-3. <strong>Explainable Multimodal-based RL</strong>
+1. <strong>Language-Based Reinforcement Learning:</strong> Many stable RL algorithms have not yet been directly utilized in language-based RL agents. This prompts a crucial research question: Can well-established RL algorithms be successfully adapted to operate in language-centric contexts?
+2. <strong>Safety Reinforcement Learning:</strong> With the increasing capabilities of RL agents, ensuring the morally responsible behavior of an agent is a growing concern. Our goal is to align human or LLM-labeled moral scores with the RL agent.
+3. <strong>Explainable Multimodal-based RL:</strong>  This direction aims to understand how both images and language instructions impact decision-making in a complex observation space.
 
 
 🐥 Publications
