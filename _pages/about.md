@@ -21,7 +21,7 @@ I am a final-year Ph.D. student in the [Machine Learning group](https://ml.infor
 🐥 Publications
 ======
 - W. Li, et al. (2025). *Inference-Time Value Alignment in Offline Reinforcement Learning: Leveraging LLMs for Reward and Ethical Guidance.*  Workshop on WORDPLAY: WHEN LANGUAGE MEETS GAMES at **EMNLP**.
-- W. Li, W. Mustafa, et al. (2025).  *Inference-Time Preference-Aligned Diffusion Planning for Safe Offline Reinforcement Learning.*  
+- W. Li, W. Mustafa, et al. (2025).  [Inference-Time Preference-Aligned Diffusion Planning for Safe Offline Reinforcement Learning](files/ECML_Workshop_Hybrid_Human_ML_and_Decision_Making.pdf).  
   Proceedings of the Third Workshop on Hybrid Human-Machine Learning and Decision Making (HHMLDM) at **ECML-PKDD** *(Oral Presentation)*.
 - W. Li, R. Devidze, W. Mustafa, and S. Fellenz.(2024) [Ethics in Action: Training Reinforcement Learning Agent for Moral Decision-making In Text-based Adventure Games](https://proceedings.mlr.press/v238/li24i.html). Proceedings of International Conference on Artificial Intelligence and Statistics (**AISTATS**)
 -  W. Li, R. Devidze, S. Fellenz.(2023) [Learning to play text-based adventure games with maximum entropy reinforcement learning](https://arxiv.org/abs/2302.10720). European Conference on Machine Learning and Data Mining (**ECML-PKDD**) [Abstract](files/abstract1.pdf) [Poster](files/Poster_ECML_Text_based_Game.pdf) [code](https://github.com/WeichenLi1223/Text-based-adventure-games-using-SAC)
@@ -32,6 +32,5 @@ I am a final-year Ph.D. student in the [Machine Learning group](https://ml.infor
 📝 Teaching 
 ======
 I supervise Master projects and theses. Please contact me if you are interested in the following topics:
-1. Playing text-based adventure games using offline Reinforcement Learning: This topic aims to train a single agent using collected game trajectories, instead of training a separate agent for each individual game with online data collection.
-2. Language understanding: This topic aims to explain an agent's decision-making process by investigating why it chooses a particular action a1 over a2 in a specific state and its ability to learn from semantic information.
-3. Deep Reinforcement learning with application to chemical data. 
+- Deep Reinforcement learning with application to chemical data.
+- Pre-training LLMs for molecular generation
