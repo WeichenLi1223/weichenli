@@ -20,6 +20,8 @@ I am a final-year Ph.D. student in the [Machine Learning group](https://ml.infor
 
 🐥 Publications
 ======
+- W.Li, et al. (2026) TORA: Train Once, Realign Anytime for Offline Multi-Objective Reinforcement Learning.
+Proceedings of the **AAAI** Conference on Artificial Intelligence, (to appear).
 - W. Li, et al. (2025). *Inference-Time Value Alignment in Offline Reinforcement Learning: Leveraging LLMs for Reward and Ethical Guidance*.  Workshop on WORDPLAY: WHEN LANGUAGE MEETS GAMES at **EMNLP**. [Poster](files/EMNLP_poster.pdf)
 - W. Li, W. Mustafa, et al. (2025). *Inference-Time Preference-Aligned Diffusion Planning for Safe Offline Reinforcement Learning*. Proceedings of the Third Workshop on Hybrid Human-Machine Learning and Decision Making (HHMLDM) at **ECML-PKDD** *(Oral Presentation)*.
 - W. Li, R. Devidze, W. Mustafa, and S. Fellenz.(2024) [Ethics in Action: Training Reinforcement Learning Agent for Moral Decision-making In Text-based Adventure Games](https://proceedings.mlr.press/v238/li24i.html). Proceedings of International Conference on Artificial Intelligence and Statistics (**AISTATS**)
