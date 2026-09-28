@@ -9,19 +9,21 @@ redirect_from:
 ---
 About me
 ------
-I am a final-year Ph.D. student in the [Machine Learning group](https://ml.informatik.uni-kl.de) at the University of Kaiserslautern-Landau, supervised by Professor Sophie Fellenz. My research primarily focuses on language-based reinforcement learning and value-aligned decision-making.
+I am a final-year Ph.D. student in the [Machine Learning group](https://ml.informatik.uni-kl.de) at the University of Kaiserslautern-Landau, supervised by Professor Sophie Fellenz. My research primarily focuses on reinforcement learning and value-aligned decision-making. 
+
+Outside of research, I try to stay active and explore different kinds of exercise. My current favorites are Pilates, CrossFit, and golf. I am also a big coffee and kombucha enthusiast, and I love discovering new cafés, flavors, and varieties whenever I get the chance.
 
 🐣 Research Interests
 ======
-1. <strong>Language-Based Reinforcement Learning:</strong> Many stable RL algorithms have not yet been directly utilized in language-based RL agents. This prompts a crucial research question: Can well-established RL algorithms be successfully adapted to operate in language-centric contexts?
-2. <strong>Ethical Reinforcement Learning:</strong> With the increasing capabilities of RL agents, ensuring the morally responsible behavior of an agent is a growing concern. Our goal is to align human or LLM-labeled moral scores with the RL agent.
-3. <strong>Human Preference Alignment in RL:</strong>  Balancing safety, efficiency, and performance using diffusion-based planning, integrating human preference at infernece time without retraining. 
-
+1. <strong>Human Preference Alignment in RL</strong>  
+2. <strong>Multi-objective Decision-making</strong>
+3. <strong>Machine Learning for Science</strong>
 
 🐥 Publications
 ======
+- W.Li, et al. (2026) Pluralistic AI Alignment Requires Inference-Time Multi-Objective Control. Advances in Neural Information Processing Systems (NeurIPS), 2026.
 - W.Li, et al. (2026) TORA: Train Once, Realign Anytime for Offline Multi-Objective Reinforcement Learning.
-Proceedings of the **AAAI** Conference on Artificial Intelligence, (to appear).
+Proceedings of the **AAAI** Conference on Artificial Intelligence.
 - W. Li, et al. (2025). [Inference-Time Value Alignment in Offline Reinforcement Learning: Leveraging LLMs for Reward and Ethical Guidance](https://wordplay-workshop.github.io/pdfs/24.pdf).  Workshop on WORDPLAY: WHEN LANGUAGE MEETS GAMES at **EMNLP**.
 - W. Li, W. Mustafa, et al. (2025). *Inference-Time Preference-Aligned Diffusion Planning for Safe Offline Reinforcement Learning*. Proceedings of the Third Workshop on Hybrid Human-Machine Learning and Decision Making (HHMLDM) at **ECML-PKDD** *(Oral Presentation)*.
 - W. Li, R. Devidze, W. Mustafa, and S. Fellenz.(2024) [Ethics in Action: Training Reinforcement Learning Agent for Moral Decision-making In Text-based Adventure Games](https://proceedings.mlr.press/v238/li24i.html). Proceedings of International Conference on Artificial Intelligence and Statistics (**AISTATS**)
