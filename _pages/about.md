@@ -11,7 +11,7 @@ About me
 ------
 I am a final-year Ph.D. student in the [Machine Learning group](https://ml.informatik.uni-kl.de) at the University of Kaiserslautern-Landau, supervised by Professor Sophie Fellenz. My research primarily focuses on reinforcement learning and value-aligned decision-making. 
 
-Outside of research, I try to stay active and explore different kinds of exercise. My current favorites are Pilates, CrossFit, and golf. I am also a big coffee and kombucha enthusiast, and I love discovering new cafés, flavors, and varieties whenever I get the chance.
+I am a big coffee and kombucha enthusiast, and I love discovering new cafés, flavors, and varieties whenever I get the chance.
 
 🐣 Research Interests
 ======
