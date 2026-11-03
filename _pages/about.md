@@ -15,9 +15,9 @@ I am a big coffee and kombucha enthusiast, and I love discovering new cafés, fl
 
 🐣 Research Interests
 ======
-1. <strong>Human Preference Alignment in RL</strong>  
-2. <strong>Multi-objective Decision-making</strong>
-3. <strong>Machine Learning for Science</strong>
+1. <strong>Inference-time value alignment</strong>  
+2. <strong>Multi-objective decision-making</strong>
+
 
 🐥 Publications
 ======
