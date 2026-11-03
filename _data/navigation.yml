@@ -18,7 +18,7 @@ main:
   - title: "CV"
     url: /files/cv_online.pdf
 
- # - title: "Publications"
-  #  url: /publications/
+  - title: "Research Statement"
+    url: /files/Research_Statement.pdf
   #- title: "Guide"
   #  url: /markdown/
